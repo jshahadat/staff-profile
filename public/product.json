@@ -1,0 +1,132 @@
+[
+    {
+        "category_id": "01",
+        "categoryName": " Microbus",
+        "productName": "Ifte Khar-ul-Rouf",
+        "originalPrice": "2000",
+        "resaleprice": "1500",
+        "use": "2 years",
+        "location": "Mirpur-1",
+        "img": "https://scontent.fdac136-1.fna.fbcdn.net/v/t39.30808-6/311780578_3273950712892872_5151615335017489768_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEJCakSRLWxP2LyykNFRq9SKmXw4TpMSTQqZfDhOkxJNI5dZDICjMClfy-mse1zGZkHBC0KhFBrq_2HWpOXd7nZ&_nc_ohc=22YRWgTtOXQAX9o1Q9s&_nc_ht=scontent.fdac136-1.fna&oh=00_AT_HCI-XO65GTCO2MAjSA9yosmHGS-N8j2sf8HFBajppBA&oe=635C5202"
+    },
+    {
+        "category_id": "01",
+        "categoryName": " Microbus",
+        "productName": "Ifte Khar-ul-Rouf",
+        "originalPrice": "3000",
+        "resaleprice": "2500",
+        "use": "1 years",
+        "location": "Mirpur-2",
+        "img": "https://scontent.fdac136-1.fna.fbcdn.net/v/t39.30808-6/311780578_3273950712892872_5151615335017489768_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEJCakSRLWxP2LyykNFRq9SKmXw4TpMSTQqZfDhOkxJNI5dZDICjMClfy-mse1zGZkHBC0KhFBrq_2HWpOXd7nZ&_nc_ohc=22YRWgTtOXQAX9o1Q9s&_nc_ht=scontent.fdac136-1.fna&oh=00_AT_HCI-XO65GTCO2MAjSA9yosmHGS-N8j2sf8HFBajppBA&oe=635C5202"
+    },
+    {
+        "category_id": "02",
+        "categoryName": " Luxury car",
+        "productName": "Ifte Khar-ul-Rouf",
+        "originalPrice": "4000",
+        "resaleprice": "3500",
+        "use": "4 years",
+        "location": "Mirpur-6",
+        "img": "https://scontent.fdac136-1.fna.fbcdn.net/v/t39.30808-6/311780578_3273950712892872_5151615335017489768_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEJCakSRLWxP2LyykNFRq9SKmXw4TpMSTQqZfDhOkxJNI5dZDICjMClfy-mse1zGZkHBC0KhFBrq_2HWpOXd7nZ&_nc_ohc=22YRWgTtOXQAX9o1Q9s&_nc_ht=scontent.fdac136-1.fna&oh=00_AT_HCI-XO65GTCO2MAjSA9yosmHGS-N8j2sf8HFBajppBA&oe=635C5202"
+    },
+    {
+        "category_id": "02",
+        "categoryName": " Luxury car",
+        "productName": "Ifte Khar-ul-Rouf",
+        "originalPrice": "1800",
+        "resaleprice": "1600",
+        "use": "1 years",
+        "location": "Mirpur-10",
+        "img": "https://scontent.fdac136-1.fna.fbcdn.net/v/t39.30808-6/311780578_3273950712892872_5151615335017489768_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEJCakSRLWxP2LyykNFRq9SKmXw4TpMSTQqZfDhOkxJNI5dZDICjMClfy-mse1zGZkHBC0KhFBrq_2HWpOXd7nZ&_nc_ohc=22YRWgTtOXQAX9o1Q9s&_nc_ht=scontent.fdac136-1.fna&oh=00_AT_HCI-XO65GTCO2MAjSA9yosmHGS-N8j2sf8HFBajppBA&oe=635C5202"
+    },
+    {
+        "category_id": "03",
+        "categoryName": "Electic car",
+        "productName": "Ifte Khar-ul-Rouf",
+        "originalPrice": "2000",
+        "resaleprice": "1400",
+        "use": "2 years",
+        "location": "Mirpur-11",
+        "img": "https://scontent.fdac136-1.fna.fbcdn.net/v/t39.30808-6/311780578_3273950712892872_5151615335017489768_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEJCakSRLWxP2LyykNFRq9SKmXw4TpMSTQqZfDhOkxJNI5dZDICjMClfy-mse1zGZkHBC0KhFBrq_2HWpOXd7nZ&_nc_ohc=22YRWgTtOXQAX9o1Q9s&_nc_ht=scontent.fdac136-1.fna&oh=00_AT_HCI-XO65GTCO2MAjSA9yosmHGS-N8j2sf8HFBajppBA&oe=635C5202"
+    },
+    {
+        "category_id": "03",
+        "categoryName": " Electic car",
+        "productName": "Ifte Khar-ul-Rouf",
+        "originalPrice": "2200",
+        "resaleprice": "1800",
+        "use": "3 years",
+        "location": "Mirpur-14",
+        "img": "https://scontent.fdac136-1.fna.fbcdn.net/v/t39.30808-6/311780578_3273950712892872_5151615335017489768_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEJCakSRLWxP2LyykNFRq9SKmXw4TpMSTQqZfDhOkxJNI5dZDICjMClfy-mse1zGZkHBC0KhFBrq_2HWpOXd7nZ&_nc_ohc=22YRWgTtOXQAX9o1Q9s&_nc_ht=scontent.fdac136-1.fna&oh=00_AT_HCI-XO65GTCO2MAjSA9yosmHGS-N8j2sf8HFBajppBA&oe=635C5202"
+    },
+    [
+        {
+            "category_id": "01",
+            "categoryName": " Microbus",
+            "product": [
+                {
+                    "productName": "Ifte ",
+                    "originalPrice": "2000",
+                    "resaleprice": "1500",
+                    "use": "2 years",
+                    "location": "Mirpur-1"
+                },
+                {
+                    "productName": " Khar",
+                    "originalPrice": "2000",
+                    "resaleprice": "1500",
+                    "use": "2 years",
+                    "location": "Mirpur-1",
+                    "img": "https://scontent.fdac136-1.fna.fbcdn.net/v/t39.30808-6/311780578_3273950712892872_5151615335017489768_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEJCakSRLWxP2LyykNFRq9SKmXw4TpMSTQqZfDhOkxJNI5dZDICjMClfy-mse1zGZkHBC0KhFBrq_2HWpOXd7nZ&_nc_ohc=22YRWgTtOXQAX9o1Q9s&_nc_ht=scontent.fdac136-1.fna&oh=00_AT_HCI-XO65GTCO2MAjSA9yosmHGS-N8j2sf8HFBajppBA&oe=635C5202"
+                }
+            ],
+            "image_url": "https://static.wixstatic.com/media/42ec32_20d4394742ed42f28fae07c21da47b7f~mv2.jpg"
+        },
+        {
+            "category_id": "02",
+            "categoryName": "Luxury car",
+            "product": [
+                {
+                    "productName": "ul-",
+                    "originalPrice": "2000",
+                    "resaleprice": "1500",
+                    "use": "2 years",
+                    "location": "Mirpur-1",
+                    "img": "https://scontent.fdac136-1.fna.fbcdn.net/v/t39.30808-6/311780578_3273950712892872_5151615335017489768_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEJCakSRLWxP2LyykNFRq9SKmXw4TpMSTQqZfDhOkxJNI5dZDICjMClfy-mse1zGZkHBC0KhFBrq_2HWpOXd7nZ&_nc_ohc=22YRWgTtOXQAX9o1Q9s&_nc_ht=scontent.fdac136-1.fna&oh=00_AT_HCI-XO65GTCO2MAjSA9yosmHGS-N8j2sf8HFBajppBA&oe=635C5202"
+                },
+                {
+                    "productName": "Rouf",
+                    "originalPrice": "2000",
+                    "resaleprice": "1500",
+                    "use": "2 years",
+                    "location": "Mirpur-1",
+                    "img": "https://scontent.fdac136-1.fna.fbcdn.net/v/t39.30808-6/311780578_3273950712892872_5151615335017489768_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEJCakSRLWxP2LyykNFRq9SKmXw4TpMSTQqZfDhOkxJNI5dZDICjMClfy-mse1zGZkHBC0KhFBrq_2HWpOXd7nZ&_nc_ohc=22YRWgTtOXQAX9o1Q9s&_nc_ht=scontent.fdac136-1.fna&oh=00_AT_HCI-XO65GTCO2MAjSA9yosmHGS-N8j2sf8HFBajppBA&oe=635C5202"
+                }
+            ],
+            "image_url": "https://structuralbd.com/wp-content/uploads/2018/01/Etabs-Screenshot.png"
+        },
+        {
+            "category_id": "03",
+            "categoryName": "Electic car",
+            "product": [
+                {
+                    "productName": "Ifte Khar-ul-Rouf",
+                    "originalPrice": "2000",
+                    "resaleprice": "1500",
+                    "use": "2 years",
+                    "location": "Mirpur-1",
+                    "img": "https://scontent.fdac136-1.fna.fbcdn.net/v/t39.30808-6/311780578_3273950712892872_5151615335017489768_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEJCakSRLWxP2LyykNFRq9SKmXw4TpMSTQqZfDhOkxJNI5dZDICjMClfy-mse1zGZkHBC0KhFBrq_2HWpOXd7nZ&_nc_ohc=22YRWgTtOXQAX9o1Q9s&_nc_ht=scontent.fdac136-1.fna&oh=00_AT_HCI-XO65GTCO2MAjSA9yosmHGS-N8j2sf8HFBajppBA&oe=635C5202"
+                },
+                {
+                    "name": "Ifte Khar-ul-Rouf",
+                    "originalPrice": "2000",
+                    "resaleprice": "1500",
+                    "use": "2 years",
+                    "location": "Mirpur-1",
+                    "img": "https://scontent.fdac136-1.fna.fbcdn.net/v/t39.30808-6/311780578_3273950712892872_5151615335017489768_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEJCakSRLWxP2LyykNFRq9SKmXw4TpMSTQqZfDhOkxJNI5dZDICjMClfy-mse1zGZkHBC0KhFBrq_2HWpOXd7nZ&_nc_ohc=22YRWgTtOXQAX9o1Q9s&_nc_ht=scontent.fdac136-1.fna&oh=00_AT_HCI-XO65GTCO2MAjSA9yosmHGS-N8j2sf8HFBajppBA&oe=635C5202"
+                }
+            ],
+            "image_url": "https://img.directindustry.com/pdf/repository_di/28711/bentley-stormwater-systems-modeling-solutions-haestad-18192_1mg.jpg"
+        }
+    ]
+]
